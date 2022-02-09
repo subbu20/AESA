@@ -14,7 +14,7 @@
   "global-options": {
     "ct-baseline": true,
     "default-s3-retention": 90,
-    "central-bucket": "AWSDOC-EXAMPLE-BUCKET",
+    "central-bucket": "aseabucket",
     "organization-admin-role": "AWSControlTowerExecution",
     "default-cwl-retention": 731,
     "workloadaccounts-suffix": 1,
